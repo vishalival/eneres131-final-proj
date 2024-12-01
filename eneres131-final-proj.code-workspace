@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "eneres131-final-proj",
+			"path": "."
+		},
+		{
+			"name": "ca_counties",
+			"path": "../../Downloads/ca_counties"
+		}
+	],
+	"settings": {}
+}
