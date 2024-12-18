@@ -10,7 +10,7 @@ We aim to tackle this question through our 3 different prediction questions:
 
 1) ***Dissolved Oxygen Prediction: Train and evaluate different models to forecast dissolved oxygen levels in the Bay Area’s aquatic ecosystems (one day into the future), using values such as Water Temperature, Turbidity, pH, Nitrate, Month, and Year, and created Lagged Features to capture temporal effects..***
 2) ***pH Prediction: Train and evaluate prediction models to predict pH levels within Bay Area counties (one day into the future), using historical water quality data and environmental features such as Acidity, (H+), Salinity, previous pH, Light attenuation coefficient, water temperature, and Specific conductance.***
-3)  ***Magnesium Prediction: Magnesium Prediction: Train prediction models to predict Magnesium levels using other mineral values such as calcium and sodium.
+3)  ***Magnesium Prediction: Magnesium Prediction: Train prediction models to predict Magnesium levels using other mineral values such as calcium and sodium.***
 
 You can check out everything in the file, `final_notebook_final.ipynb`!!
 
